@@ -1,0 +1,19 @@
+.navbar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icon {
+    font-size: 2rem;
+    color: #6900ff;
+}
+
+.navbar .icon:hover{
+    transition: 0.5, ease-in-out;
+    transform: scale(1.2);
+}
+
+.purple {
+    color: #6900ff;
+}
